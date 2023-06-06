@@ -18,6 +18,7 @@ learn a bit more.
 ## Software Architecture
 
 > Last updated: 06/06/2023
+> Author: Eric Chagas
 
 ![software architecture](delorean-bookstore.architecture.png)
 
