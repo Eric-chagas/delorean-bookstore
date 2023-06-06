@@ -17,7 +17,7 @@ learn a bit more.
 
 ## Software Architecture
 
-> Last updated: 06/06/2023
+> Last updated: 06/06/2023 <br>
 > Author: Eric Chagas
 
 ![software architecture](delorean-bookstore.architecture.png)
@@ -99,5 +99,5 @@ This project is powered by a time-traveling delorean, remember, AI can't hurt yo
 ![Delorean AI](/src/main/resources/static/dailorean.jpg)
 
 
-Brasília, Brasil
+Brasília, Brasil <br>
 June, 2023
