@@ -13,17 +13,25 @@ learn a bit more.
 
 ## Features
 
-- Delorean bookstore main microsservice. It's responsible for plenty
+- Delorean bookstore main microsservice. It's responsible for plenty at the moment
+
+## Software Architecture
+
+> Last updated: 06/06/2023
+
+![software architecture](delorean-bookstore.architecture.png)
 
 ## Recommended Prerequisites
 
 #### Linux 
 
-|      Tool      | Version  | Official Docs |
-| :------------: | :------: | :-----------: |
-|     docker     | 20.10.21 |               |
-| docker-compose |  1.29.2  |               |
-|      git       |  2.34.1  |               |
+|      Tool      | Version * |                         Official Docs                         |
+| :------------: | :-------: | :-----------------------------------------------------------: |
+|     docker     | 20.10.21  |                   https://docs.docker.com/                    |
+| docker-compose |  1.29.2   | https://docs.docker.com/engine/reference/commandline/compose/ |
+|      git       |  2.34.1   |                    https://git-scm.com/doc                    |
+
+\* Recommended versions, might work with something else
 
 ## Installation
 
